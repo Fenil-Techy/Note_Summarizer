@@ -1,0 +1,5 @@
+langchain
+streamlit
+PyPDF2
+langchain_ollama
+langchain_community

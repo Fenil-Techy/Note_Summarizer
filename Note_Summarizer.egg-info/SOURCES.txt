@@ -1,0 +1,12 @@
+README.md
+setup.py
+Note_Summarizer.egg-info/PKG-INFO
+Note_Summarizer.egg-info/SOURCES.txt
+Note_Summarizer.egg-info/dependency_links.txt
+Note_Summarizer.egg-info/requires.txt
+Note_Summarizer.egg-info/top_level.txt
+src/__init__.py
+src/Summarizer/__init__.py
+src/Summarizer/logger.py
+src/Summarizer/main.py
+src/Summarizer/utlis.py

@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: Note_Summarizer
+Version: 0.1
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: PyPDF2
+Requires-Dist: langchain_ollama
+Requires-Dist: langchain_community
+Dynamic: requires-dist
